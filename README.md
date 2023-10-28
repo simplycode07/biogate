@@ -7,7 +7,7 @@ It is a simple biometric based logging system for laser cutter
 #### For Students:
 1. Press Login Button and Place your finger on the sensor
 2. Wait for red LED to glow, if it glows, You are logged in
-3. Once you're done with the machine, press logout button to log you out
+3. Once you're done with the machine, press logout button to log yourself out
 
 #### For Teachers:
 ![alt](/images/parts/final_without_casing.png)
